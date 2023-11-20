@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d871c188-805d-4a3c-aa1c-5d7fb7ebe412": {
+      "ProjectGuid": "d871c188-805d-4a3c-aa1c-5d7fb7ebe412",
+      "DisplayName": "FirstBlazorDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
